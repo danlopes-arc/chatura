@@ -1,0 +1,22 @@
+{
+  "name": "chatura",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danlopes-arc/chatura.git"
+  },
+  "keywords": [],
+  "author": "Daniel Lopes Arcanjo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danlopes-arc/chatura/issues"
+  },
+  "homepage": "https://github.com/danlopes-arc/chatura#readme",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  }
+}
